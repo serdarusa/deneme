@@ -1,4 +1,4 @@
-public class deneme {
+public class gt staturdeneme {
 
 
     public static void main(String[] args){
